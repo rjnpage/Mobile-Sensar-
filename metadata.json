@@ -1,0 +1,9 @@
+{
+  "name": "Smart Sensor Tester Pro",
+  "description": "A comprehensive real-time mobile sensor diagnostic and testing tool with Material 3 design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
